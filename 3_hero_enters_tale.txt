@@ -1,6 +1,3 @@
-<<<<<<< HEAD
- 
-For as long as he can remember, Sir Oscar has dreamed of owning a mythical unicorn due to unicorns being used in films as status symbols. So, Oscar set out with only his kind heart and humble personality to aid him.
-=======
-For as long as he can remember, Sir Oscar ##ADDED##and his little sidekick Edward##ADDED## has dreamed of owning a mythical unicorn due to unicorns being used in films as status symbols.
->>>>>>> 57fcdb0998f60efbd70e66201eead668cc5f8f7a
+For as long as he can remember, Sir Oscar and his little sidekick Edward has dreamed of owning a mythical unicorn due to unicorns being used in films as status symbols.
+Sir Oscar had a real biker-beard. Long with braids.
+
